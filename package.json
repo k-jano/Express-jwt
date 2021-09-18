@@ -1,0 +1,9 @@
+{
+  "name": "express-jwt",
+  "version": "1.0.0",
+  "description": "Example express authentication server with jwt",
+  "main": "index.js",
+  "author": "kjano10 <kuba.jano3@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
